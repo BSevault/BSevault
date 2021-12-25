@@ -1,8 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header.png"></p>
 
-<h1 align="center">Hello, I'm Benjamin Sevault</h1>
-<p align="center">I worked 14 years as a blood transfusion lab tech, then I decided to retrain and learn programming. I'm working on obtaining a master's degree in software architecture.</p>
-<p align="center">Even if I'm having good fun with front-end, I prefer working on back-end and databases 😄 .</p>
+<h1 align="center" text-align="left">Hello, I'm Benjamin Sevault</h1>
+<p align="center">I worked 14 years as a blood transfusion lab tech in hospitals, then I decided to retrain and learn programming. 
+<br> I'm working on obtaining a master's degree in software architecture. 
+<br> Even if I'm having good fun with front-end, I prefer working on back-end and databases. 😄</p>
+
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BBSevault%7D/count.svg" alt="visitor badge"/></p>
@@ -16,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![NPM](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=003545)&nbsp;
