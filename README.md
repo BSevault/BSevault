@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header_small.png"></p>
 
 <h1 align="center" text-align="left">Hello, I'm Benjamin Sevault</h1>
 <p align="center">I worked 14 years as a blood transfusion lab tech in hospitals, then I decided to retrain and learn programming. 
