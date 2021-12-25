@@ -20,6 +20,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![NPM](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=003545)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -30,7 +31,7 @@
 
 ### :link: &nbsp;Connect with me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/benjamin-sevault"><img src="https://img.shields.io/badge/-Benjamin%20Sevault-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:b.sevault@gmail.com"><img src="https://img.shields.io/badge/-b.sevault@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
