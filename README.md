@@ -1,6 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header.png"></p>
 
-<h1>Hello, I'm Benjamin Sevault</h1>
+<h1 align="center">Hello, I'm Benjamin Sevault</h1>
+<p align="center">I worked 14 years as a blood transfusion lab tech, then I decided to retrain and learn programming.</p>
+<p align="center">Even if I'm having good fun with front-end, I prefer working on back-end and databases 😄 .</p>
+<p align="center">I aim to obtain a master's degree in software architecture. </p>
+
 
 <!--
 **BSevault/BSevault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
