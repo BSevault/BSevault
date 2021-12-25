@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header.png"></p>
 
-### 
+<h1>Hello, I'm Benjamin Sevault</h1>
 
 <!--
 **BSevault/BSevault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
