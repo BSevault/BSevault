@@ -3,7 +3,7 @@
 <h1 align="center" text-align="left">Hello, I'm Benjamin Sevault</h1>
 <p align="center">I worked 14 years as a blood transfusion lab tech in hospitals, then I decided to retrain and learn programming. 
 <br> I'm working on obtaining a master's degree in software architecture. 
-<br> Even if I'm having good fun with front-end, I prefer working on back-end and databases. 😄</p>
+<br> Even though I'm having fun with front-end, I prefer working on back-end and databases. 😄</p>
 
 
 <p align="center"><b>Visitor's Count</b></p>
