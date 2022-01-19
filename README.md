@@ -14,23 +14,23 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-037AFC?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-037AFC?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-037AFC?style=flat&logo=javascript)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-037AFC?style=flat&logo=json&logoColor=000000)&nbsp;
-![NPM](https://img.shields.io/badge/-Npm-037AFC?style=flat&logo=npm)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-037AFC?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-037AFC?style=flat&logo=express&logoColor=000000)&nbsp;
-![React.js](https://img.shields.io/badge/-React-037AFC?style=flat&logo=react&logoColor=61dafb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-080545?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-080545?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-080545?style=flat&logo=javascript)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-080545?style=flat&logo=json&logoColor=000000)&nbsp;
+![NPM](https://img.shields.io/badge/-Npm-080545?style=flat&logo=npm)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-080545?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-080545?style=flat&logo=express&logoColor=000000)&nbsp;
+![React.js](https://img.shields.io/badge/-React-080545?style=flat&logo=react&logoColor=61dafb)&nbsp;
 <br>
-![MySQL](https://img.shields.io/badge/-MySQL-037AFC?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-037AFC?style=flat&logo=mariadb&logoColor=003545)&nbsp;
-![Java](https://img.shields.io/badge/-Java-037AFC?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-037AFC?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-037AFC?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-037AFC?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-037AFC?style=flat&logo=postman&logoColor=ff6c37)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-037AFC?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-080545?style=flat&logo=mysql&logoColor=F29111)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-080545?style=flat&logo=mariadb&logoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-080545?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-080545?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-080545?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-080545?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-080545?style=flat&logo=postman&logoColor=ff6c37)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-080545?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
