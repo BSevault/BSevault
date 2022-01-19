@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-080545?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-080545?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-080545?style=flat&logo=postman&logoColor=ff6c37)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-080545?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-080545?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
