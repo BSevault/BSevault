@@ -9,30 +9,37 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 - ⚡ Most written line of code : `git commit -m " "`.
 - 🔭 Even though I'm having fun with front-end, I slightly prefer working on back-end and databases. 😄
 
+
+
+
 🤝 &nbsp; Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/benjamin-sevault/)
 <a href="mailto:b.sevault@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+
 <hr>
 
+
 ### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+<br>
 
 | <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="https://raw.githubusercontent.com/BSevault/BSevault/main/VSCode_logo.svg" width="40"><br>VSCode | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br>GitHub |
 
-
+<br>
 <hr>
 
-### GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
+### GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=react">
 <img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=react&layout=compact&include_all_commits=true" width="418"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=react&layout=compact"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=react&layout=compact"></p>
 
 
-
+<br>
 <hr>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bsevault)
