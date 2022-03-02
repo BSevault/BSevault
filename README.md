@@ -1,18 +1,35 @@
-<p align="center"><img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header_small.png"></p>
+<img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header_small.png">
+<p  align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/></p>
 
-<h1 align="center" text-align="left">Hello, I'm Benjamin Sevault</h1>
-<p align="center">I worked 14 years as a blood transfusion lab tech in hospitals, then I decided to retrain and learn programming. 
-<br> I'm working on obtaining a master's degree in software architecture. 
-<br> Even though I'm having fun with front-end, I prefer working on back-end and databases. 😄</p>
+<h1 align="center"> Hello ! I'm Benjamin. </h1>
+
+My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
+
+- 🌱 I’m currently improving my skills in JavaScript, NodeJS and ReactJS.
+- ⚡ Most written line of code : `git commit -m " "`.
+- 🔭 Even though I'm having fun with front-end, I slightly prefer working on back-end and databases. 😄
+
+🤝 &nbsp; Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/benjamin-sevault/)
+<a href="mailto:b.sevault@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<hr>
+
+### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="" width="40"><br>VSCode | <img src="" width="40"><br> | <img src="" width="40"><br> |
 
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BBSevault%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=chartreuse-dark"></p>
+<hr>
 
-### 🛠 &nbsp;Tech Stack
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=dark&layout=compact&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=dark&layout=compact"></p>
+
+
 
 ![HTML](https://img.shields.io/badge/-HTML-080545?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-080545?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -32,12 +49,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-080545?style=flat&logo=postman&logoColor=ff6c37)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-080545?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### :link: &nbsp;Connect with me
 
-<p>
-<a href="https://linkedin.com/in/benjamin-sevault"><img src="https://img.shields.io/badge/-Benjamin%20Sevault-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:b.sevault@gmail.com"><img src="https://img.shields.io/badge/-b.sevault@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bsevault)
 
 <!--
 **BSevault/BSevault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,6 +65,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 
 ![Python](https://img.shields.io/badge/-Python-037AFC?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-037AFC?style=flat&logo=javascript)&nbsp;
