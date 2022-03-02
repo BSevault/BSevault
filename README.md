@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header_small.png">
+
 <p  align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/></p>
 
 <h1 align="center"> Hello ! I'm Benjamin. </h1>
@@ -20,16 +20,25 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 
 | <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="" width="40"><br>VSCode | <img src="" width="40"><br> | <img src="" width="40"><br> |
+| <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="https://raw.githubusercontent.com/BSevault/BSevault/main/VSCode_logo.svg" width="40"><br>VSCode | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br>GitHub |
 
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=dark&layout=compact&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=dark&layout=compact"></p>
+### GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=react">
+<img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=react&layout=compact&include_all_commits=true" width="418"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BSevault&theme=react&layout=compact"></p>
 
 
+
+<hr>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bsevault)
+
+<!--
+<img src="https://raw.githubusercontent.com/BSevault/BSevault/main/header_small.png">
 
 ![HTML](https://img.shields.io/badge/-HTML-080545?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-080545?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -50,9 +59,7 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-080545?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Bsevault)
 
-<!--
 **BSevault/BSevault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
