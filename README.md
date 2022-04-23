@@ -5,7 +5,7 @@
 
 My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 
-- 🌱 I’m currently improving my skills in JavaScript, NodeJS and ReactJS.
+- 🌱 I’m currently improving my skills in JavaScript, NodeJS, ReactJS and Flutter 📲.
 - ⚡ Most written line of code : `git commit -m " "`.
 - 🔭 Even though I'm having fun with front-end, I slightly prefer working on back-end and databases. 😄
 
