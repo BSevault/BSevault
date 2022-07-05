@@ -21,7 +21,7 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 <hr>
 
 
-### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px">
 <br>
 
 | <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React |
@@ -32,7 +32,7 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 <hr>
 
 
-### GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+### GitHub Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="30px">
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSevault&layout=compact&hide=TSQL&theme=react">
 <img src="https://github-readme-stats.vercel.app/api?username=BSevault&count_private=true&show_icons=true&&theme=react&layout=compact&include_all_commits=true" width="418"></p> 
