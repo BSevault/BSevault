@@ -3,9 +3,9 @@
 
 <h1 align="center"> Hello ! I'm Benjamin. </h1>
 
-My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
+My name is Benjamin Sevault, and I'm a passionate Developer student 💻.
 
-- 🌱 I’m currently improving my skills in JavaScript, NodeJS, ReactJS and Flutter 📲.
+- 🌱 I’m currently improving my skills in Java, Spring, C# and ASP.NET Core 📲.
 - ⚡ Most written line of code : `git commit -am "typo"`.
 - 🔭 Even though I'm having fun with front-end, I slightly prefer working on back-end and databases. 😄
 
@@ -24,9 +24,9 @@ My name is Benjamin Sevault, and I'm a passionate Web Developer student 💻.
 ### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px">
 <br>
 
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="https://raw.githubusercontent.com/BSevault/BSevault/main/VSCode_logo.svg" width="40"><br>VSCode | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br>GitHub |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"><br>HTML | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="45"/><br>CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"><br>JS | <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40"><br>JSON | <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40"><br>NPM | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"><br>NodeJs | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"><br>express | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"><br>React | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"><br>Java | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40"><br>.NET |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"><br>Vue.js | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"><br>MySQL | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"><br>MariaDB | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"><br>SQLite | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"><br>Postman | <img src="https://raw.githubusercontent.com/BSevault/BSevault/main/VSCode_logo.svg" width="40"><br>VSCode | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"><br>Git | <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"><br>GitHub | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"><br>Spring | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"><br>Docker |
 
 <br>
 <hr>
